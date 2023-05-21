@@ -3,7 +3,6 @@
 ### Olá! Eu sou o Carlos Santos 🖐
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosbsantos&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Habilidades em Tecnologias 
 
