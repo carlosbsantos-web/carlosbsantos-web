@@ -1,11 +1,11 @@
 
+[![Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]
+
   
 ### Olá! Eu sou o Carlos Santos 🖐
 
 
 ![Carlos Github stats](https://github-readme-stats.vercel.app/api?username=carlosbsantos-web&show_icons=true&theme=dracula)
-![Carlos Github stats](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white(https://github.com/carlosbsantos-web)
-
 
 
 ## Habilidades em Tecnologias 
