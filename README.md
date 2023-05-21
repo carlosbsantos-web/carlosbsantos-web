@@ -1,9 +1,5 @@
 
 
-<div> 
-<img align="center" alt="html5" src="<img align="center" alt="html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-/>
-</div>
   
 ### Olá! Eu sou o Carlos Santos 🖐
 
