@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, eu sou Carlos Santos! 👋</h1>
+<h1 align="center">Olá, sou Carlos Santos! 👋</h1>
 
 <h3 align="center">Engenharia de Dados • Automação Inteligente • Inteligência Artificial</h3>
 
