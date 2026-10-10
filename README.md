@@ -1,27 +1,42 @@
 
   
-### Olá! Eu sou o Carlos Santos ✌
+# Olá, eu sou o Carlos Santos! 👋
 
+### 👨‍💻 Sobre Mim
+Sou **Engenheiro de Dados** focado na criação, otimização e manutenção de arquiteturas de dados escaláveis. Desenvolvo pipelines de ETL/ELT eficientes, garantindo a integridade, qualidade e disponibilidade dos dados para tomadas de decisão estratégicas.
 
+---
 
-## Habilidades em Tecnologias 
+### 🛠️ Competências e Tecnologias
+
+#### 🐍 Linguagens de Programação e Banco de Dados
+![Python](https://shields.io)
+![SQL](https://shields.io)
+
+#### 🔄 Engenharia de Dados & ETL/ELT
+![Apache Airflow](https://shields.io)
+![dbt](https://shields.io)
+
+#### 🐘 Armazenamento e Bancos de Dados (SQL / NoSQL)
+![PostgreSQL](https://shields.io)
+![MongoDB](https://shields.io)
+
+#### 🚀 Big Data & Processamento
+![Apache Spark](https://shields.io)
+![Databricks](https://shields.io)
+
+#### ☁️ Computação em Nuvem (Cloud Providers)
+![AWS](https://shields.io)
+
+---
+
+### 📊 Estatísticas
+![As estatísticas do seu GitHub estarão logo abaixo]
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosbsantos-web&show_icons=true&theme=dracula)
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-/>
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-/>
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-/>
-  <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
-/>
-  <img align="center" alt="react.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-/>
-  </div>
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
-/>
+
      </div> <br/>
      
      Apaixonado por tecnologia, cada dia em busca de mais e mais conhecimentos 👨🏼‍💻 👨🏼‍💻
