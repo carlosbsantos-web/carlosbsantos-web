@@ -1,4 +1,4 @@
-# Olá, eu sou o Carlos Santos! 👋
+# Olá,sou Carlos Santos! 👋
 
 ### 👨‍💻 Sobre Mim
 Sou **Engenheiro de Dados** focado na criação, otimização e manutenção de arquiteturas de dados escaláveis. Desenvolvo pipelines de ETL/ELT eficientes, garantindo a integridade, qualidade e disponibilidade dos dados para tomadas de decisão estratégicas.
