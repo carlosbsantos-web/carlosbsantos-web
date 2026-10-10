@@ -1,4 +1,4 @@
-# Olá,sou Carlos Santos! 👋
+# Olá, sou Carlos Santos! 👋
 
 ### 👨‍💻 Sobre Mim
 Sou **Engenheiro de Dados** focado na criação, otimização e manutenção de arquiteturas de dados escaláveis. Desenvolvo pipelines de ETL/ELT eficientes, garantindo a integridade, qualidade e disponibilidade dos dados para tomadas de decisão estratégicas.
@@ -7,23 +7,23 @@ Sou **Engenheiro de Dados** focado na criação, otimização e manutenção de 
 
 ### 🛠️ Competências e Tecnologias
 
-**Linguagens e Bancos:**
-![Python](https://shields.io) ![SQL](https://shields.io)
+**Linguagens e Bancos:**  
+<img src="https://shields.io" height="28" /> <img src="https://shields.io" height="28" />
 
-**Engenharia & ETL/ELT:**
-![Apache Airflow](https://shields.io) ![dbt](https://shields.io)
+**Engenharia & ETL/ELT:**  
+<img src="https://shields.io" height="28" /> <img src="https://shields.io" height="28" />
 
-**Bancos de Dados:**
-![PostgreSQL](https://shields.io) ![MongoDB](https://shields.io)
+**Bancos de Dados:**  
+<img src="https://shields.io" height="28" /> <img src="https://shields.io" height="28" />
 
-**Big Data & Cloud:**
-![Apache Spark](https://shields.io) ![Databricks](https://shields.io) ![AWS](https://shields.io)
+**Big Data & Cloud:**  
+<img src="https://shields.io" height="28" /> <img src="https://shields.io" height="28" /> <img src="https://shields.io" height="28" />
 
 ---
 
 ### 📊 Estatísticas
 
-![Estatísticas do GitHub](https://vercel.app)
+<img src="https://vercel.app" alt="Estatísticas do GitHub de Carlos" height="180" />
 
 ---
 
