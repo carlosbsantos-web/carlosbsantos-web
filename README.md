@@ -1,5 +1,4 @@
-
-# Olá, sou Carlos Santos! 👋
+# Olá, eu sou o Carlos Santos! 👋
 
 ### 👨‍💻 Sobre Mim
 Sou **Engenheiro de Dados** focado na criação, otimização e manutenção de arquiteturas de dados escaláveis. Desenvolvo pipelines de ETL/ELT eficientes, garantindo a integridade, qualidade e disponibilidade dos dados para tomadas de decisão estratégicas.
@@ -8,45 +7,23 @@ Sou **Engenheiro de Dados** focado na criação, otimização e manutenção de 
 
 ### 🛠️ Competências e Tecnologias
 
-<table>
-  <tr>
-    <td><b>Linguagens e Bancos</b></td>
-    <td>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Engenharia & ETL/ELT</b></td>
-    <td>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Bancos de Dados</b></td>
-    <td>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Big Data & Cloud</b></td>
-    <td>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-    </td>
-  </tr>
-</table>
+**Linguagens e Bancos:**
+![Python](https://shields.io) ![SQL](https://shields.io)
+
+**Engenharia & ETL/ELT:**
+![Apache Airflow](https://shields.io) ![dbt](https://shields.io)
+
+**Bancos de Dados:**
+![PostgreSQL](https://shields.io) ![MongoDB](https://shields.io)
+
+**Big Data & Cloud:**
+![Apache Spark](https://shields.io) ![Databricks](https://shields.io) ![AWS](https://shields.io)
 
 ---
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub de Carlos" height="192px" />
-</p>
+![Estatísticas do GitHub](https://vercel.app)
 
 ---
 
@@ -55,8 +32,8 @@ Sou **Engenheiro de Dados** focado na criação, otimização e manutenção de 
 </p>
 
 
-       
-       
+ 
+ 
        
        
        
