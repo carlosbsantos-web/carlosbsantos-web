@@ -9,12 +9,16 @@
 
 <p align="center">
   <a href="https://github.com/carlosbsantos-web">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:nextnode.contato@gmail.com">
-    <img src="https://img.shields.io/badge/Contato-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail profissional">
+  <a href="https://wa.me/5574988310727?text=Ol%C3%A1%21%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20seus%20projetos%20de%20automa%C3%A7%C3%A3o.">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Fale comigo no WhatsApp">
+  </a>
+  <a href="mailto:nextnode.contato@gmail.com?subject=Contato%20pelo%20GitHub">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Envie um e-mail">
   </a>
 </p>
+
 
 ---
 
